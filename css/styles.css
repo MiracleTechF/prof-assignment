@@ -1,0 +1,139 @@
+
+.content{
+    margin: 10px;
+    padding: 10px;
+    background-color: #eaf6f6;
+}
+h1{
+    color: blueviolet;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.pictures{
+    padding-bottom: 5px;
+
+}
+.teddy1{
+    width: 250px;
+    height: auto;
+    border: 3px chocolate solid;
+}
+.teddy2{
+    width: 250px;
+    height: auto;
+    border: 3px chocolate solid;
+}
+.teddy3{
+    width: 230px;
+    height: 165px;
+    border: 3px chocolate solid;
+}
+.teddy4{
+    width: 230px;
+    height: 165px;
+    border: 3px chocolate solid;
+}
+.teddy5{
+    width: 230px;
+    height: 165px;
+    border: 3px chocolate solid;
+}
+.teddy6{
+    width: 250px;
+    height: 165px;
+    border: 3px chocolate solid;
+
+}
+.teddy7{
+    width: 250px;
+    height: 165px;
+    border: 3px chocolate solid;
+
+}
+.teddy8{
+    width: 230px;
+    height: 165px;
+    border: 3px chocolate solid;
+
+}
+.teddy9{
+    width: 230px;
+    height: 165px;
+    border: 3px chocolate solid;
+
+}
+.teddy10{
+    width: 230px;
+    height: 165px;
+    border: 3px chocolate solid;
+
+}
+.audios{
+    padding-bottom: 30px;
+}
+.videos{
+    padding-top: 5px;
+
+}
+.vid1{
+    width: 300px;
+    height: 190px;
+
+}
+.vid2{
+
+    width: 300px;
+    height: 200px;
+
+}
+.vid3{
+
+    width: 300px;
+    height: 200px;
+}
+.vid4{
+    width: 300px;
+    height: 200px;
+
+}
+.tags{
+    padding-top: 5px;
+}
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: coral;
+}
+a:hover{
+    cursor: pointer;
+    color: black;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-top-width: 5px;
+    border-color: firebrick;
+    
+}
+.foot{
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: #ffffffff;
+}
+.sub{
+    color: chocolate;
+    cursor: pointer;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: mintcream;
+    border-radius: 8px;
+    border: 1px blue solid;
+}
+.sub:hover{
+    color: blue;
+}
+
+
+

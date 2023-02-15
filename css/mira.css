@@ -1,0 +1,10 @@
+.miracle1{
+    width: 100px;
+    height: auto;
+    float: left;
+    clip-path: circle(90px);
+}
+body{
+    background-color: #eaf6f6;
+}
+
